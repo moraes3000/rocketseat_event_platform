@@ -1,9 +1,6 @@
-
-
 function App() {
-
   return (
-    <h1>Hello World</h1>
+    <h1 className="text-2x">Hello World</h1>
   )
 }
 
