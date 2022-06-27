@@ -4,8 +4,8 @@ query GetLessonBySlug($slug: String) {
     videoId
     description
     teacher {
-      avatarURL
       bio
+      avatarURL
       name
     }
   }
